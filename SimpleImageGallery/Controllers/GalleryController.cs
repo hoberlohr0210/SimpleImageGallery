@@ -41,7 +41,7 @@ namespace SimpleImageGallery.Controllers
                 new GalleryImage()
                 {
                     Title = "Hiking Trip",
-                    Url = "https://www.pexels.com/photo/three-people-hiking-on-high-mountain-771079/",
+                    Url = "https://images.pexels.com/photos/771079/pexels-photo-771079.jpeg?cs=srgb&dl=backpack-clouds-cloudy-sky-771079.jpg&fm=jpg",
                     Created = DateTime.Now,
                     Tags = hikingImageTags
                 },
@@ -49,7 +49,7 @@ namespace SimpleImageGallery.Controllers
                 new GalleryImage()
                 {
                     Title = "On the Trail",
-                    Url = "https://www.pexels.com/photo/america-american-flag-architecture-bridge-450597/",
+                    Url = "https://images.pexels.com/photos/450597/pexels-photo-450597.jpeg?cs=srgb&dl=america-american-flag-architecture-450597.jpg&fm=jpg",
                     Created = DateTime.Now,
                     Tags = cityImageTags
                 },
@@ -57,7 +57,7 @@ namespace SimpleImageGallery.Controllers
                 new GalleryImage()
                 {
                     Title = "Downtown",
-                    Url = "https://www.pexels.com/photo/architecture-art-clouds-landmark-290386/",
+                    Url = "https://images.pexels.com/photos/421927/pexels-photo-421927.jpeg?cs=srgb&dl=architecture-bridge-brooklyn-bridge-421927.jpg&fm=jpg",
                     Created = DateTime.Now,
                     Tags = cityImageTags
                 }
